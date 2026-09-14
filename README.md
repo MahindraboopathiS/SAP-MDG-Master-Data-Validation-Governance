@@ -2,7 +2,8 @@
 
 Validate master data entries against business rules to ensure they are accurate, complete, and consistent. 
 
-![alt text](MahindraboopathiS--SAP-MDG-Master-Data-Validation-Governance.png)
+<img width="679" height="375" alt="MahindraboopathiS--SAP-MDG-Master-Data-Validation-Governance" src="https://github.com/user-attachments/assets/7c339b7f-bb43-44a5-a539-fdad96dcf6b9" />
+
 <h5><font face="andale mono,times">Overview</font></h5>
 <p><font face="andale mono,times">Working with SAP MDG (Master Data Governance) often means balancing two realities: robust governance and agile adaptability. One of the common we face during MDG implementation is managing field validations with user-friendly alerts.</font></p>
 <p><font face="andale mono,times">Whether a field should be hidden, mandatory or optional often depends on multiple factors like CR type, entity, company code or user role etc. Traditionally, these validations are implemented via BRF+ expressions, Enhancements in feeder classes, Hard-coded logic in the UI layer/BAdIs.</font></p>
