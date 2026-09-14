@@ -273,7 +273,20 @@ METHOD if_ex_usmd_acc_fld_prop_cds~modify_fld_prop_attr.
 <h5><font face="andale mono,times">5. Message Class: Generic 000, So No transport required every time for new messages.</font></h5>
 <p><font face="andale mono,times"><img src="https://github.com/nimi-soni/SAP-MDG-Dynamic-Validation/blob/main/MDG_Dynamic_Validation/Nimii_9-1749534184200.png"></img></font></p>
 <p align = "center"><font face="andale mono,times" size="2">[ Fig : 5 Message Class ]</font></p>
-<h5><font face="andale mono,times"><strong>Conclusion</strong></font></h5>
-<p class="lia-align-justify"><font face="andale mono,times">- SAP MDG is built to empower governed, agile master data. But flexibility shouldn&rsquo;t mean fragility. With a configurable validation engine, we&rsquo;ve transformed how we think about field behavior turning a developer-led task into a business-led control mechanism and maximum governance.</font></p>
-<div><div>👉 Read my full article on&nbsp;<a href="https://community.sap.com/t5/technology-blog-posts-by-members/reimagining-sap-mdg-field-validations-low-code-approach-ui-field-control/ba-p/14122121" target="_blank">Reimagining SAP MDG Field Validations</a>&nbsp;here.</div></div><div><br /></div><div>
-<p class="lia-align-justify"><font face="andale mono,times"><strong>Thanks !&nbsp; &nbsp;</strong></font></p>
+## Conclusion
+
+SAP MDG enables organizations to maintain accurate, consistent, and governed master data. This project demonstrates how structured validation rules can improve data accuracy, reduce incorrect entries, and support reliable business processes.
+
+By applying business-driven validation and governance principles, organizations can build **trusted and consistent enterprise master data**.
+
+---
+
+### 👨‍💼 About the Author
+
+**Mahindraboopathi S**  
+*Aspiring SAP MDG Consultant | SAP Certified MDG*  
+*Master Data Governance & SAP Functional Consulting Enthusiast*
+
+---
+
+⭐ **If you found this project useful, feel free to explore the repository and connect with me!**
